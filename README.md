@@ -78,6 +78,6 @@ This **sales analysis report** provides deep insights into revenue patterns, cus
 ✅ Drive higher growth and revenue  
 
 ---
-📌 **Developed By**: [Your Name / Team]  
-📅 **Last Updated**: [Date]  
-🔗 **Contact**: [Your Contact Info]
+📌 **Developed By**: Durga Vamsi 
+📅 **Last Updated**: 24/03/2025
+🔗 **Contact**: 9963524245
